@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Copa America 2019</string>
+    <string name="local">Equipo Local</string>
+    <string name="visita">Equipo Visita</string>
+    <string name="title_activity_grupos">Grupos</string>
+    <string name="tab_text_A">Grupo A</string>
+    <string name="tab_text_B">Grupo B</string>
+    <string name="tab_text_C">Grupo C</string>
+    <string name="tab_text_D">Grupo D</string>
+    <string name="tab_text_E">Grupo E</string>
+    <string name="probabilidad">Probabilidad de clasificación</string>
+
+
+</resources>
